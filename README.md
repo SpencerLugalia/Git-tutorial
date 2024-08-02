@@ -1,2 +1,1 @@
-# Git-tutorial
-waaah i've messed up big time
+# Git-tutorial Nimetoka uko mbali
